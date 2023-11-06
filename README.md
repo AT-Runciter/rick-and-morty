@@ -1,1 +1,2 @@
-# rick-and-morty
+npm install
+npm run dev
